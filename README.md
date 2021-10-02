@@ -1,4 +1,4 @@
-# economy-DiscordBot
+# dbd.js-tutorial
 Economic themed Discord Bot with quite a lot of commands.
 
 # SETUP
